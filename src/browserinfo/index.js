@@ -1,0 +1,1 @@
+ export { browserInfo} from './browserinfo'
